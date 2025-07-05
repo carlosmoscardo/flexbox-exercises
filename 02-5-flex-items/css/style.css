@@ -19,5 +19,4 @@
 .flex-item:nth-child(3) {
   background: pink;
   color: black;
-  width: auto;
 }
