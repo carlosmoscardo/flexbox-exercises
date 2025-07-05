@@ -30,12 +30,13 @@
 .flex-item:nth-child(1) {
   flex-grow: 1;
   /* 1 */
-
+  width: 650px;
   /* 3 */
+  max-width: 500px;
+  min-width: 400px;
 }
 
 .flex-item:nth-child(2) {
   background: steelblue;
   /* 2 */
-  width: 325px;
 }
