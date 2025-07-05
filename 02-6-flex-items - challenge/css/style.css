@@ -15,7 +15,13 @@
 
     ///////////////// */
 
+.container {
+  display: flex;
+  margin: 5rem;
+}
+
 .column {
   padding: 2rem;
   border: 2px solid black;
+  width: 100%;
 }
