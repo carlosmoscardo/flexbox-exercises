@@ -11,6 +11,11 @@
   3   Vertically center the nav items
 
 */
+.menu {
+  display: flex; 
+}
+
+
 
 header {
   background: black;
