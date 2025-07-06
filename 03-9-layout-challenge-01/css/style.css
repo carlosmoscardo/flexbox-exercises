@@ -14,3 +14,9 @@
       continues to grow to take up the 
       rest of the available space
 */
+
+@media (min-width: 32.5em) {
+    .subcontainer {
+        display: flex;
+    }
+}
