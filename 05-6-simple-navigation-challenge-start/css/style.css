@@ -13,6 +13,7 @@
 */
 .menu {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
 }
@@ -24,7 +25,8 @@ header {
 }
 
 .logo {
-  width: 20rem;
+  width: 10rem;
+  margin: 2em 0;
 }
 
 nav ul {
